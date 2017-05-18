@@ -49,6 +49,11 @@
             <name>David Arroyo</name>
             <email>darroyo at stratio dot com</email>
         </developer>
+        <developer>
+            <id>pianista215</id>
+            <name>Unai Sarasola</name>
+            <email>usarasola at stratio dot com</email>
+        </developer>
     </developers>
 
     <properties>
