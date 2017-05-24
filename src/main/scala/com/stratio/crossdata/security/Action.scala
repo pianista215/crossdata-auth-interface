@@ -28,6 +28,4 @@ case object Create extends Action
 
 case object Drop extends Action
 
-case object Describe extends Action
-
 case object Cache extends Action
