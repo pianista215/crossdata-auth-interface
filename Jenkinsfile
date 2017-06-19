@@ -9,6 +9,7 @@ hose {
     REPOSITORY = 'crossdata-auth-interface'
     
     DEV = { config ->
+        doPackage(config)
         doDeploy(config)            
     }
 }
